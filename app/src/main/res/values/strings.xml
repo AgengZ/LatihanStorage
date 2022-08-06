@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LatihanStorage</string>
+    <string name="Label_Button_Create">BUAT FILE</string>
+    <string name="Label_Button_Read">BACA FILE</string>
+    <string name="Label_Button_Update">UBAH FILE</string>
+    <string name="Label_Button_Delete">HAPUS FILE</string>
+    <string name="Label_Hint_Hasil">Hasil Running</string>
+</resources>
